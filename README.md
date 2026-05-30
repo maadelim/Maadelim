@@ -1,6 +1,6 @@
 # Hola, soy Made 👋
 
-**Data Scientist · Healthcare & Financial Intelligence**
+**Data Scientist & AI · Healthcare & Financial Intelligence**
 
 📍 Barcelona, Spain · 🎓 MSc Data Science & AI (UCSUR) en curso · 💼 4+ años
 
