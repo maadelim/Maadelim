@@ -29,9 +29,14 @@ Convierto datos complejos en decisiones de negocio. Mi background combina dos mu
 
 ### Proyectos destacados
 
-🦠 **[Vaccine Coverage Forecasting · Perú](link)** — Sistema predictivo de cobertura de vacunación basado en datos abiertos del MINSA  
-🔍 *[Próximamente] SME Financial Anomaly Detection*  
-🤖 *[Próximamente] Clinical NLP — Diagnostics Classification*  
+
+📊 [Análisis Financiero Banco Santander 2019-2024](https://github.com/maadelim/analisis-santander-2019-2024) — Análisis de recuperación post-COVID con Python, Power BI y Tableau. Visualización de 6 KPIs estratégicos y modelado de datos en esquema estrella.
+
+🦠 [Próximamente] Sistema predictivo de cobertura de vacunación basado en datos abiertos del MINSA
+
+🔍 [Próximamente] Detección de Anomalías Financieras de Pymes
+
+🤖 [Próximamente] PNL Clínica — Clasificación de Diagnósticos
 
 ---
 
