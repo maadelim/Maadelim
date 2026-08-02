@@ -54,3 +54,4 @@ Convierto datos financieros complejos en decisiones de negocio. Combino formaciÃ
 ---
 
 ðŸ“« Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/maadelim/)
+Rosa Madelim Mallma Moreno
